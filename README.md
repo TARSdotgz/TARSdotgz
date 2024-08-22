@@ -7,3 +7,5 @@
 - 📫 How to reach me |  notCASE@proton.me
 - ⚡ Fun fact |  #freebritney
 
+![Scrolling Text SVG](https://readme-typing-svg.herokuapp.com/?lines=Scrolling+live+text+at+the+bottom...&center=true&width=500&height=50&color=FF0000&speed=20)
+
