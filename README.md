@@ -1,7 +1,7 @@
 ## Heyyy 👋
 
-- 🔭 I’m currently working on |  Anything Linux & A.I.
-- 🌱 I’m currently learning |  Alot.
+- 🕹 I’m currently working on |  Anything Linux & A.I.
+- 🌎 I’m currently learning |  Everything.
 - 📫 How to reach me |  notCASE@proton.me
 - ⚡ Fun fact |  #freebritney
 
